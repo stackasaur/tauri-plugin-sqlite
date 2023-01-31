@@ -3,9 +3,10 @@
   "description": "A Tauri plugin for interface to SQLite",
   "version": "0.1.1",
   "author": "lzdyes <lzdyes@gmail.com>",
+  "type":"module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lzdyes/tauri-plugin-sqlite"
+    "url": "https://github.com/stackasaur/tauri-plugin-sqlite"
   },
   "browser": "webview-dist/index.js",
   "main": "webview-dist/index.js",
